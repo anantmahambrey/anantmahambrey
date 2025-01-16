@@ -1,6 +1,8 @@
-<p><img align="center" src="https://www.knowbe4.com/hubfs/covid19-slider.jpg" alt="anantmahambrey" height="120"/></p>
+<p><img align="center" src="https://www.knowbe4.com/hubfs/covid19-slider.jpg" alt="anantmahambrey"/></p>
 <h1 align="center">Hi 👋, I'm Anant</h1>
-<h3 align="center">A passionate Computer Science Student from Goa, India</h3>
+<h3 align="center">A passionate Computer Science and Engineering Student from Goa, India</h3>
+
+<p><img align="center" src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-1.gif" alt="anantmahambrey"/></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
