@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anant</h1>
 <h3 align="center">A passionate Computer Science and Engineering Student from Goa, India</h3>
 
-<p><img align="center" src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-1.gif" alt="anantmahambrey"/></p>
+<p><img align="right" src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-1.gif" alt="anantmahambrey" height:"100" width "80"/></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
