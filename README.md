@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="Cover_image.jpg" alt="Banner"/>
-</div>
-
 <h1 align="center">Hi There👋, I'm Anant</h1>
 
 <div align="right">
