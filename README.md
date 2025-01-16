@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.knowbe4.com/hubfs/covid19-slider.jpg" alt="banner" width="1000"/>
+  ![Banner](./Cover_image.jpg)
 </div>
 
 <h1 align="center">Hi There👋, I'm Anant</h1>
