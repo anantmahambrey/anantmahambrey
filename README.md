@@ -1,4 +1,4 @@
-<p><img align="center" src="https://www.knowbe4.com/hubfs/covid19-slider.jpg" alt="anantmahambrey" height="20"/></p>
+<p><img align="center" src="https://www.knowbe4.com/hubfs/covid19-slider.jpg" alt="anantmahambrey" height="120"/></p>
 <h1 align="center">Hi 👋, I'm Anant</h1>
 <h3 align="center">A passionate Computer Science Student from Goa, India</h3>
 
