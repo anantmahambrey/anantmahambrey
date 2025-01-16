@@ -5,7 +5,7 @@
 <h1 align="center">Hi There👋, I'm Anant</h1>
 
 <div align="right">
-  <img src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-1.gif" alt="coding" width="250" align="right"/>
+  <img src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-1.gif" alt="coding" width="300" align="right"/>
 </div>
 
 ### 🎓 About Me
@@ -48,7 +48,3 @@ A passionate Computer Science and Engineering Student from Goa, India, with inte
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"/> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="25" height="25"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="25" height="25"/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anantmahambrey&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-</div>
