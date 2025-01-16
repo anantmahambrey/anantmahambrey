@@ -1,5 +1,5 @@
 <div align="center">
-  ![Banner](Cover_image.jpg)
+  <img src="Cover_image.jpg" alt="Banner"/>
 </div>
 
 <h1 align="center">Hi There👋, I'm Anant</h1>
