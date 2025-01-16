@@ -33,7 +33,7 @@ A passionate Computer Science and Engineering Student from Goa, India, with inte
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/> &nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="25" height="25"/> &nbsp;
-<img src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" alt="flask" width="25" height="25"/> &nbsp;
+<img src="https://th.bing.com/th/id/OIP.19Aio6uoXRdKgfrk2PR9qgHaHw?rs=1&pid=ImgDetMain" alt="flask" width="25" height="25"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="25" height="25"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="25" height="25"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="25"/> &nbsp;
