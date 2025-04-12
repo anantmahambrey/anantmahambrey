@@ -1,9 +1,5 @@
 <h1 align="center">Hi There👋, I'm Anant</h1>
 
-<div align="right">
-  <img src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-1.gif" alt="coding" width="300" align="right"/>
-</div>
-
 ### 🎓 About Me
 A passionate Computer Science and Engineering Student from Goa, India, with interests in Data Science, Machine Learning, and Software Development.
 
